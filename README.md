@@ -5,6 +5,9 @@ Solution is split into three projects:
 * Core - Contains core business logic
 * Core.Tests - Contains unit test example 
 
+
+Application works under the assumption that user input is always correct.
+
 Example of console application working:
 ![image](https://user-images.githubusercontent.com/16199901/230677213-a746839a-f929-43b7-a1a0-b9cdcb5254da.png)
 
